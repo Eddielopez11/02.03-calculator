@@ -47,6 +47,10 @@
   width: 25%;
 }
 
+.operator:hover {
+  color: red;
+}
+
 .number {
   border: 1px solid rgb(242, 242, 242);
   display: inline-block;
