@@ -33,6 +33,7 @@
   display: inline-block;
   height: 20%;
   line-height: 100px;
+  overflow-y: scroll;
   vertical-align: middle;
   width: 75%;
 }
